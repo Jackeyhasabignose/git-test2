@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+}
+
+.container .header {
+  width: 100%;
+  height: 250px;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container h1 {
+  text-align: center;
+  margin-bottom: -10px;
+}
+.container p {
+  text-align: center;
+  margin-bottom: -10px;
+}
+.container img {
+  height: 100px;
+  width: 100px;
+}
+.container .info h2 {
+  margin-left: 160px;
+}
+.container .info hr {
+  margin: 0 160px;
+  border-color: yellowgreen;
+}
+.container .info li {
+  margin: 0 160px;
+  list-style: decimal;
+  padding: 5px;
+}
+.container .info p {
+  text-align: left;
+  font-family: sans-serif;
+}
+.container .info ul {
+  margin-bottom: 64px;
+  margin: 0;
+  padding-bottom: 48px;
+}
+.container .skill {
+  width: 100%;
+  height: 180px;
+  background-color: gray;
+}
+.container .skill p {
+  text-align: center;
+  color: white;
+}
+.container .skill h2 {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+.container .experience {
+  margin-bottom: 64px;
+}
+.container .experience ul {
+  margin: 0 167px;
+  padding: 32px;
+}
+.container .experience ol {
+  margin: 0 160px;
+}
+.container .experience p {
+  padding: 48px;
+}
+.container .experience li {
+  padding: 5px;
+}
+.container .experience h2 {
+  text-align: left;
+  margin-left: 160px;
+}/*# sourceMappingURL=index.css.map */
